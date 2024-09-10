@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 currently learning LLMs<br>🔭 looking forward to create my own GenAI product
+⚡Data Scientist<br>💼Machine Learning, Deep Learning and Natural Language Processing<br>🌱 currently learning LLMs<br>🔭 looking forward to create my own GenAI product
 
 
 ## 🌐 Socials:
